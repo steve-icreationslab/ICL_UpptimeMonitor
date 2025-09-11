@@ -18,6 +18,8 @@ sites:
   #   ipv6: true
   - name: 3eagle.com
     url: https://www.3eagle.com
+    expectedStatusCodes:
+      - 403
     
   - name: Google
     url: https://www.google.com
@@ -30,6 +32,54 @@ sites:
 
   - name: DS - ICL Main 2 OLD
     url: https://ds.icreationslabserver.com/
+
+    - name: DS - SHBC
+    url: https://server.shbc.com.sg/
+
+    - name: DS - SHF
+    url: https://server.myheart.org.sg/
+
+    - name: DS - SLEC
+    url: https://slec.icreationslabhosting.com/
+
+    - name: DS-ICL-MAIN1 NEW
+    url: https://15.235.233.103/
+
+    - name: DS-KUOKGROUP
+    url: https://kuokgroup.server.icreationslab.com:2083/
+
+    - name: iCreations - VPS PLESK Doverpark
+    url: https://vps.doverpark.org.sg:8443/login_up.php
+
+    - name: I Creations Lab backup server
+    url: https://server.icreationslab.com/
+
+    - name: VPS - ICL
+    url: https://icl.server.icreationslab.com/
+
+    - name: VPS - OAS
+    url: https://18.142.195.18/
+
+    - name: VPS - SDF
+    url: https://server.sundownfestival.com/
+
+    - name: VPS - TET
+    url: https://server.theenchantedtree.com.sg/
+
+    - name: VPS-MOBY
+    url: https://51.79.250.151/
+
+    - name: DVPS-MPP-EU1
+    url: https://mpp-eu1.server.icreationslab.com/
+
+    - name: VPS-RSAN
+    url: https://rsan.server.icreationslab.com/
+
+    - name: VPS-THHG
+    url: https://server.thhg.sg/
+
+    - name: VPS-TIP
+    url: https://tip.server.icreationslab.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
