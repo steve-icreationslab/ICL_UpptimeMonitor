@@ -18,9 +18,19 @@ sites:
   #   ipv6: true
   - name: 3eagle.com
     url: https://www.3eagle.com
+    
   - name: Google
     url: https://www.google.com
+    
+  - name: DS - AllGreen
+    url: https://server.allgreen.icreationslabserver.com/
 
+  - name: DS - ICL Main 1 OLD
+    url: http://icreationslabhosting.com/
+
+  - name: DS - ICL Main 2 OLD
+    url: https://ds.icreationslabserver.com/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
