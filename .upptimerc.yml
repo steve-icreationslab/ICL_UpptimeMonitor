@@ -18,6 +18,9 @@ sites:
   #   ipv6: true
   - name: 3eagle.com
     url: https://www.3eagle.com
+    __dangerous__insecure: true
+  - name: Google
+    url: https://www.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
