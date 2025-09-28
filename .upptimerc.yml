@@ -21,9 +21,6 @@ sites:
     expectedStatusCodes:
       - 403
     
-  - name: Google
-    url: https://www.google.com
-    
   - name: DS - AllGreen
     url: https://server.allgreen.icreationslabserver.com/
 
