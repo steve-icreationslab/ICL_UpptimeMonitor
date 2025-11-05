@@ -60,10 +60,10 @@
     "url": "https://ds.icreationslabserver.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ds.icreationslabserver.com.ico",
     "slug": "ds-icl-main-2-old",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 897,
@@ -71,7 +71,9 @@
     "timeWeek": 931,
     "timeMonth": 896,
     "timeYear": 897,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-05": 2
+    }
   },
   {
     "name": "DS - SHBC",
@@ -90,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-11-05": 62,
+      "2025-11-05": 595,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -165,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 62,
+      "2025-11-05": 595,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -229,18 +231,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/slec.icreationslabhosting.com.ico",
     "slug": "ds-slec",
     "status": "down",
-    "uptime": "19.61%",
+    "uptime": "19.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.61%",
+    "uptimeYear": "19.48%",
     "time": 910,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-11-05": 62,
+      "2025-11-05": 595,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -304,7 +306,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 62,
+      "2025-11-05": 595,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -379,7 +381,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 62,
+      "2025-11-05": 595,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -454,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 62,
+      "2025-11-05": 595,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -569,7 +571,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 62,
+      "2025-11-05": 595,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -682,7 +684,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 62,
+      "2025-11-05": 595,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
