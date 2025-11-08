@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ds.icreationslabserver.com.ico",
     "slug": "ds-icl-main-2-old",
     "status": "down",
-    "uptime": "95.46%",
+    "uptime": "95.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.46%",
-    "uptimeMonth": "91.36%",
-    "uptimeYear": "95.46%",
+    "uptimeWeek": "61.31%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "95.32%",
     "time": 897,
     "timeDay": 0,
     "timeWeek": 1001,
     "timeMonth": 893,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2025-11-08": 57,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 847
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-11-08": 57,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -173,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 57,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -240,18 +240,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/slec.icreationslabhosting.com.ico",
     "slug": "ds-slec",
     "status": "down",
-    "uptime": "18.59%",
+    "uptime": "18.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.59%",
+    "uptimeYear": "18.56%",
     "time": 910,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-11-08": 57,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -318,7 +318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 57,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -396,7 +396,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 57,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -474,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 57,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -592,7 +592,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 57,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -708,7 +708,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 58,
+      "2025-11-08": 173,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -828,9 +828,9 @@
     "url": "https://tip.server.icreationslab.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tip.server.icreationslab.com.ico",
     "slug": "vps-tip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -839,6 +839,8 @@
     "timeWeek": 736,
     "timeMonth": 678,
     "timeYear": 682,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-08": 0
+    }
   }
 ]
